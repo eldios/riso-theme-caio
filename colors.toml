@@ -1,35 +1,35 @@
-## Caio, riso's mascot: charcoal coat, collar red, bell gold.
-## The palette follows the cat - neutral dark greys warmed by the two
-## accents every wallpaper carries.
+## Caio, riso's mascot, dressed for the night: deep violet dark with a
+## lavender accent and cyan glints, the collar red and bell gold kept
+## in the terminal palette.
 
 mode = "dark"
 
-accent = "#c23b3b"
-selection = "#332a26"
-muted = "#544c48"
+accent = "#b195e8"
+selection = "#2a2440"
+muted = "#575070"
 
-background = "#171513"
-dark_background = "#110f0e"
-darker_background = "#0b0a09"
-lighter_background = "#221f1c"
+background = "#151220"
+dark_background = "#100e1a"
+darker_background = "#0b0914"
+lighter_background = "#1e1a2e"
 
-foreground = "#d6cfc7"
-dark_foreground = "#8d857d"
-light_foreground = "#e2dcd5"
-bright_foreground = "#f0ebe5"
+foreground = "#d8d2e8"
+dark_foreground = "#8f88a8"
+light_foreground = "#e4dff0"
+bright_foreground = "#f1eef8"
 
-red = "#c23b3b"
-yellow = "#d4a53f"
-orange = "#c9793a"
-green = "#7fa86b"
-cyan = "#6fa3a0"
-blue = "#7d95b5"
-magenta = "#a97f9f"
-brown = "#8a6f55"
+red = "#d4707f"
+yellow = "#d8bd78"
+orange = "#cf9668"
+green = "#8ac79a"
+cyan = "#7ad4d8"
+blue = "#8aa4e8"
+magenta = "#c48ae0"
+brown = "#98795f"
 
-bright_red = "#d65f5f"
-bright_yellow = "#e2bc63"
-bright_green = "#9cc088"
-bright_cyan = "#8fbcb9"
-bright_blue = "#9bb1cc"
-bright_magenta = "#c09cb6"
+bright_red = "#e08e9b"
+bright_yellow = "#e6d094"
+bright_green = "#a5d8b2"
+bright_cyan = "#9be4e8"
+bright_blue = "#a7bcf0"
+bright_magenta = "#d5a8ec"
