@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="preview.png" alt="the caio theme applied: btop, fastfetch and the wallpaper all in the same palette" width="920" />
+</p>
+
 # caio
 
 riso's example theme, named after its mascot: a deep violet dark with a
