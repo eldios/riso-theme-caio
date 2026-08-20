@@ -1,0 +1,35 @@
+## Caio, riso's mascot: charcoal coat, collar red, bell gold.
+## The palette follows the cat - neutral dark greys warmed by the two
+## accents every wallpaper carries.
+
+mode = "dark"
+
+accent = "#c23b3b"
+selection = "#332a26"
+muted = "#544c48"
+
+background = "#171513"
+dark_background = "#110f0e"
+darker_background = "#0b0a09"
+lighter_background = "#221f1c"
+
+foreground = "#d6cfc7"
+dark_foreground = "#8d857d"
+light_foreground = "#e2dcd5"
+bright_foreground = "#f0ebe5"
+
+red = "#c23b3b"
+yellow = "#d4a53f"
+orange = "#c9793a"
+green = "#7fa86b"
+cyan = "#6fa3a0"
+blue = "#7d95b5"
+magenta = "#a97f9f"
+brown = "#8a6f55"
+
+bright_red = "#d65f5f"
+bright_yellow = "#e2bc63"
+bright_green = "#9cc088"
+bright_cyan = "#8fbcb9"
+bright_blue = "#9bb1cc"
+bright_magenta = "#c09cb6"
